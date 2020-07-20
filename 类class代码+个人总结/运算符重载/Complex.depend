@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1289884612 source:c:\users\dillon\desktop\complex\main.cpp
+	<iostream>
+	"Complex.h"
+
+1289884681 c:\users\dillon\desktop\complex\complex.h
+	<iostream>
+	<cmath>
+
+1289884616 source:c:\users\dillon\desktop\complex\complex.cpp
+	"Complex.h"
+
+1527132369 source:j:\2018oop\chap4_complex\complex\main.cpp
+	<iostream>
+	<cstdlib>
+
+1586482720 source:c:\users\dillon\desktop\2020oop\2019oop\chap4_complex\complex\main.cpp
+	<iostream>
+	<cstdlib>
+
+1586482720 source:c:\users\dillon\desktop\2020oop\2020new\chap5\chap5_complex\complex\main.cpp
+	<iostream>
+	<cstdlib>
+

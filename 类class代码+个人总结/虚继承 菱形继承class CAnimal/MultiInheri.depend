@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1288869232 source:c:\users\dillon\desktop\multiinheri\main.cpp
+	<iostream>
+	<cstring>
+
+1289482978 source:c:\users\dillon\desktop\pegasus virtual\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<mmsystem.h>
+
+1289486898 source:c:\users\dillon\desktop\20101112\pegasus virtual\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<mmsystem.h>
+
+1289486898 source:d:\面向对象程序设计\20101025_2-1-1224\20101112\pegasus virtual\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<mmsystem.h>
+
+1435557337 source:c:\users\dillon\desktop\2015面向对象车程序设计\源代码\第五章\c5b_pegasusvirtual\pegasus virtual\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+
+1435558623 source:f:\面向对象程序设计\chap5_pegasusvirtual\pegasus virtual\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+
+1497930382 source:c:\users\administrator\desktop\chap5_pegasusvirtual\pegasus virtual\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+
+1527678606 source:f:\2019oop\pegasus virtual\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+
+1586485370 source:c:\users\dillon\desktop\2020oop\2020new\chap4\pegasusvirtualfinal\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+
